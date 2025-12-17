@@ -17,9 +17,12 @@ Summarization
 Translation
 
 ## Dataset
-### Dataset Name: ChatGPT Prompts Dataset
-### Size: 1000 samples
-### Format: CSV
+### Dataset Name:
+chatgpt_prompts_dataset
+### Size:
+1000 samples
+### Format:
+CSV
 The dataset is clean, balanced, and suitable for NLP classification tasks.
 
 ## Technologies Used
