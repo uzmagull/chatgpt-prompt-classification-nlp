@@ -41,13 +41,13 @@ TensorFlow / Keras
 5. Train-Test Split (80% train, 20% test with stratification)
 
 ## Models Implemented
-🔹 Machine Learning Models
+### Machine Learning Models
 1. Logistic Regression
 2. Naive Bayes
 3. Support Vector Machine (SVM)
 4. Random Forest
 
-🔹 Deep Learning Model
+### Deep Learning Model
 1. Deep Neural Network (DNN)
 2. Fully connected (Dense) layers
 3. ReLU activation
